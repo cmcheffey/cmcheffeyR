@@ -1,1 +1,1 @@
-# cmcheffeyR
+# Statistical Analysis with R
