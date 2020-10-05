@@ -15,3 +15,5 @@
 
 [Assignment 7](assignment7.html)
 [Assignment 7 Picture](count_sex.png)
+
+[Assignment 8](assignment8.html)
