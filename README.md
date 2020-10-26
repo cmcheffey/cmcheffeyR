@@ -26,3 +26,4 @@
 
 [Assignment 12](assignment12.html)
 
+[Midterm](Midterm.html)
